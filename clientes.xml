@@ -1,0 +1,964 @@
+<?xml version="1.0"?>
+<DataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="CIDCLIENTEPROVEEDOR" type="xs:int" minOccurs="0" />
+                <xs:element name="nombre" type="xs:string" minOccurs="0" />
+                <xs:element name="CDENCOMERCIAL" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+    <NewDataSet>
+      <Table diffgr:id="Table1" msdata:rowOrder="0">
+        <CIDCLIENTEPROVEEDOR>2</CIDCLIENTEPROVEEDOR>
+        <nombre>ADMINISTRACION PORTUARIA INTEGRAL DE COATZACOALCOS</nombre>
+        <CDENCOMERCIAL>API COATZA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table2" msdata:rowOrder="1">
+        <CIDCLIENTEPROVEEDOR>203</CIDCLIENTEPROVEEDOR>
+        <nombre>ADMINISTRACION PORTUARIA INTEGRAL DE SALINA CRUZ S.A. DE C.V</nombre>
+        <CDENCOMERCIAL>API SALINA CRUZ</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table3" msdata:rowOrder="2">
+        <CIDCLIENTEPROVEEDOR>122</CIDCLIENTEPROVEEDOR>
+        <nombre>AGUA TKITA</nombre>
+        <CDENCOMERCIAL>AGUA TKITA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table4" msdata:rowOrder="3">
+        <CIDCLIENTEPROVEEDOR>143</CIDCLIENTEPROVEEDOR>
+        <nombre>AGUSTIN LOZA BERMAN</nombre>
+        <CDENCOMERCIAL>LB ASESORES</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table5" msdata:rowOrder="4">
+        <CIDCLIENTEPROVEEDOR>6</CIDCLIENTEPROVEEDOR>
+        <nombre>AMALIA DE LA CRUZ GALLARDO</nombre>
+        <CDENCOMERCIAL>AMALIA DE LA CRUZ</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table6" msdata:rowOrder="5">
+        <CIDCLIENTEPROVEEDOR>207</CIDCLIENTEPROVEEDOR>
+        <nombre>ANA DEL CARMEN MARTINEZ SANCHEZ</nombre>
+        <CDENCOMERCIAL>CASINO PETROLERO</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table7" msdata:rowOrder="6">
+        <CIDCLIENTEPROVEEDOR>9</CIDCLIENTEPROVEEDOR>
+        <nombre>ANALITICA AMBIENTAL DEL GOLFO, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>AAGSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table8" msdata:rowOrder="7">
+        <CIDCLIENTEPROVEEDOR>199</CIDCLIENTEPROVEEDOR>
+        <nombre>ANGEL REYMUNDO ORDOÑEZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table9" msdata:rowOrder="8">
+        <CIDCLIENTEPROVEEDOR>193</CIDCLIENTEPROVEEDOR>
+        <nombre>ARACELI PEREZ BASULTO</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table10" msdata:rowOrder="9">
+        <CIDCLIENTEPROVEEDOR>12</CIDCLIENTEPROVEEDOR>
+        <nombre>ARTURO ZAVALETA VELAZQUEZ</nombre>
+        <CDENCOMERCIAL>ACEROS Y MAQUINADOS</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table11" msdata:rowOrder="10">
+        <CIDCLIENTEPROVEEDOR>183</CIDCLIENTEPROVEEDOR>
+        <nombre>ASOCIACIÓN MEXICANA DE IMAGENOLOGIA MAMARIA, A.C.</nombre>
+        <CDENCOMERCIAL>DRS. HERRERA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table12" msdata:rowOrder="11">
+        <CIDCLIENTEPROVEEDOR>115</CIDCLIENTEPROVEEDOR>
+        <nombre>ASOCIACION PRO CONSTRUCCION Y FUNCIONAMIENTO DEL CASINO PETR</nombre>
+        <CDENCOMERCIAL>CASINO PETROLERO</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table13" msdata:rowOrder="12">
+        <CIDCLIENTEPROVEEDOR>155</CIDCLIENTEPROVEEDOR>
+        <nombre>ASUNCION PATRACA QUINTA</nombre>
+        <CDENCOMERCIAL>AGUA TKITA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table14" msdata:rowOrder="13">
+        <CIDCLIENTEPROVEEDOR>13</CIDCLIENTEPROVEEDOR>
+        <nombre>AUTOPARTES COATZACOALCOS  S.A DE C.V</nombre>
+        <CDENCOMERCIAL>AUTOCOA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table15" msdata:rowOrder="14">
+        <CIDCLIENTEPROVEEDOR>14</CIDCLIENTEPROVEEDOR>
+        <nombre>AUTOPARTES ELECTRICAS GUZMAN, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>AUTOPARTES ELECTRICAS GUZMAN</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table16" msdata:rowOrder="15">
+        <CIDCLIENTEPROVEEDOR>209</CIDCLIENTEPROVEEDOR>
+        <nombre>AUTOTANQUES CJA, S.A DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table17" msdata:rowOrder="16">
+        <CIDCLIENTEPROVEEDOR>167</CIDCLIENTEPROVEEDOR>
+        <nombre>AUTOTRANSPORTE GOLD S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>AUTOGOLD</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table18" msdata:rowOrder="17">
+        <CIDCLIENTEPROVEEDOR>170</CIDCLIENTEPROVEEDOR>
+        <nombre>BENIGNO VERDUGO MEJIA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table19" msdata:rowOrder="18">
+        <CIDCLIENTEPROVEEDOR>118</CIDCLIENTEPROVEEDOR>
+        <nombre>BIDCOM SA DE CV</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table20" msdata:rowOrder="19">
+        <CIDCLIENTEPROVEEDOR>208</CIDCLIENTEPROVEEDOR>
+        <nombre>C. TRANSPORTATION SERVICES SA DE CV</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table21" msdata:rowOrder="20">
+        <CIDCLIENTEPROVEEDOR>121</CIDCLIENTEPROVEEDOR>
+        <nombre>CARLOS PEREZ DOMINGUEZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table22" msdata:rowOrder="21">
+        <CIDCLIENTEPROVEEDOR>16</CIDCLIENTEPROVEEDOR>
+        <nombre>CASA MARAM S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>ENYERBERT LOPEZ RUIZ</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table23" msdata:rowOrder="22">
+        <CIDCLIENTEPROVEEDOR>17</CIDCLIENTEPROVEEDOR>
+        <nombre>CATALINA ANTONIO RAMIREZ</nombre>
+        <CDENCOMERCIAL>VETERINARIA LA SUREÑA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table24" msdata:rowOrder="23">
+        <CIDCLIENTEPROVEEDOR>229</CIDCLIENTEPROVEEDOR>
+        <nombre>CATALINA SALINAS RUEDA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table25" msdata:rowOrder="24">
+        <CIDCLIENTEPROVEEDOR>168</CIDCLIENTEPROVEEDOR>
+        <nombre>CENTRO DE ENSEÑANZA Y CONVIVENCIA INFANTIL A.C.</nombre>
+        <CDENCOMERCIAL>BUCKINGHAM</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table26" msdata:rowOrder="25">
+        <CIDCLIENTEPROVEEDOR>192</CIDCLIENTEPROVEEDOR>
+        <nombre>CENTRO DIESEL DEL SURESTE S.A. de C.V.</nombre>
+        <CDENCOMERCIAL>CEDISUR</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table27" msdata:rowOrder="26">
+        <CIDCLIENTEPROVEEDOR>18</CIDCLIENTEPROVEEDOR>
+        <nombre>CHEMICAL SERVICES AND LABORATORY, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table28" msdata:rowOrder="27">
+        <CIDCLIENTEPROVEEDOR>232</CIDCLIENTEPROVEEDOR>
+        <nombre>CLARA INES LUNA VILLASEÑOR</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table29" msdata:rowOrder="28">
+        <CIDCLIENTEPROVEEDOR>189</CIDCLIENTEPROVEEDOR>
+        <nombre>COMERCIALIZADORA DE EQUIPOS INDUSTRIALES Y SERVICIOS</nombre>
+        <CDENCOMERCIAL>CEISGSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table30" msdata:rowOrder="29">
+        <CIDCLIENTEPROVEEDOR>228</CIDCLIENTEPROVEEDOR>
+        <nombre>COMERCIALIZADORA INDUSTRIAL HENZE SA DE CV</nombre>
+        <CDENCOMERCIAL>HENZE SA DE CV</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table31" msdata:rowOrder="30">
+        <CIDCLIENTEPROVEEDOR>234</CIDCLIENTEPROVEEDOR>
+        <nombre>COMERVER S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>COMERVER</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table32" msdata:rowOrder="31">
+        <CIDCLIENTEPROVEEDOR>20</CIDCLIENTEPROVEEDOR>
+        <nombre>COMISION MUNICIPAL DE AGUA POTABLE Y SANEAMIENTO DE COATZA</nombre>
+        <CDENCOMERCIAL>CAEV COATZA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table33" msdata:rowOrder="32">
+        <CIDCLIENTEPROVEEDOR>131</CIDCLIENTEPROVEEDOR>
+        <nombre>COMPAÑIA ESPECIALIZADA EN PROYECTOS, OBRAS Y SERVICIOS INDUS</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table34" msdata:rowOrder="33">
+        <CIDCLIENTEPROVEEDOR>148</CIDCLIENTEPROVEEDOR>
+        <nombre>COMPUTACION EN ACCION SA DE CV</nombre>
+        <CDENCOMERCIAL>CONTPAQi</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table35" msdata:rowOrder="34">
+        <CIDCLIENTEPROVEEDOR>21</CIDCLIENTEPROVEEDOR>
+        <nombre>COMUNIDAD CRISTIANA AGUA VIVA DE LAS NACIONES, A.R</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table36" msdata:rowOrder="35">
+        <CIDCLIENTEPROVEEDOR>22</CIDCLIENTEPROVEEDOR>
+        <nombre>CONSORCIO CORPORATIVO CORTLAN S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>CORPORATIVO CORTLAN</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table37" msdata:rowOrder="36">
+        <CIDCLIENTEPROVEEDOR>23</CIDCLIENTEPROVEEDOR>
+        <nombre>CONSORCIO INDUSTRIAL NESPI</nombre>
+        <CDENCOMERCIAL>NESPI</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table38" msdata:rowOrder="37">
+        <CIDCLIENTEPROVEEDOR>227</CIDCLIENTEPROVEEDOR>
+        <nombre>CONSTRUCCIONES GLOBALES ADUCO S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table39" msdata:rowOrder="38">
+        <CIDCLIENTEPROVEEDOR>239</CIDCLIENTEPROVEEDOR>
+        <nombre>CONSTRUCCIONES GRUPO VERTICE, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table40" msdata:rowOrder="39">
+        <CIDCLIENTEPROVEEDOR>25</CIDCLIENTEPROVEEDOR>
+        <nombre>CONSTRUCTORA INDUSTRIAL ARQUI-MAC, S.A. DE C.V</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table41" msdata:rowOrder="40">
+        <CIDCLIENTEPROVEEDOR>26</CIDCLIENTEPROVEEDOR>
+        <nombre>CONSTRUCTORA Y PROVEEDORA OAXACA S.A DE C.V</nombre>
+        <CDENCOMERCIAL>CPOSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table42" msdata:rowOrder="41">
+        <CIDCLIENTEPROVEEDOR>233</CIDCLIENTEPROVEEDOR>
+        <nombre>CONSUMIBLES Y EQUIPOS ELECTRICOS DE MEXICO S.A DE C.V</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table43" msdata:rowOrder="42">
+        <CIDCLIENTEPROVEEDOR>214</CIDCLIENTEPROVEEDOR>
+        <nombre>CORPORATIVO DE ASESORES Y AUDITORES S.C.</nombre>
+        <CDENCOMERCIAL>CAASC</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table44" msdata:rowOrder="43">
+        <CIDCLIENTEPROVEEDOR>216</CIDCLIENTEPROVEEDOR>
+        <nombre>CORPORATIVO DE COMBUSTIBLES DEL ISTMO, SA DE CV</nombre>
+        <CDENCOMERCIAL>ENYERBERT</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table45" msdata:rowOrder="44">
+        <CIDCLIENTEPROVEEDOR>149</CIDCLIENTEPROVEEDOR>
+        <nombre>CORPORATIVO DE MANTENIMIENTO INTEGRAL CAESSA SA DE CV</nombre>
+        <CDENCOMERCIAL>CAESSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table46" msdata:rowOrder="45">
+        <CIDCLIENTEPROVEEDOR>150</CIDCLIENTEPROVEEDOR>
+        <nombre>CORPORATIVO EN DIRECCION DE NEGOCIOS SC DE RL DE CV</nombre>
+        <CDENCOMERCIAL>CORDINE</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table47" msdata:rowOrder="46">
+        <CIDCLIENTEPROVEEDOR>28</CIDCLIENTEPROVEEDOR>
+        <nombre>CORPORATIVO SOINSUR S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>CORPORATIVO SOINSUR</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table48" msdata:rowOrder="47">
+        <CIDCLIENTEPROVEEDOR>185</CIDCLIENTEPROVEEDOR>
+        <nombre>CORPORATIVO VANETRA, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>VANETRA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table49" msdata:rowOrder="48">
+        <CIDCLIENTEPROVEEDOR>111</CIDCLIENTEPROVEEDOR>
+        <nombre>CT INTERNACIONAL DEL NOROESTE, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table50" msdata:rowOrder="49">
+        <CIDCLIENTEPROVEEDOR>206</CIDCLIENTEPROVEEDOR>
+        <nombre>DALIA DANIELA FERNANDEZ CARAPIA</nombre>
+        <CDENCOMERCIAL>CEMSUR</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table51" msdata:rowOrder="50">
+        <CIDCLIENTEPROVEEDOR>217</CIDCLIENTEPROVEEDOR>
+        <nombre>DC IMPORTACIONES</nombre>
+        <CDENCOMERCIAL>CESAR GARRIDO</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table52" msdata:rowOrder="51">
+        <CIDCLIENTEPROVEEDOR>196</CIDCLIENTEPROVEEDOR>
+        <nombre>DEPÓSITO DENTAL LUIGIDENT</nombre>
+        <CDENCOMERCIAL>LUIGIDENT</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table53" msdata:rowOrder="52">
+        <CIDCLIENTEPROVEEDOR>136</CIDCLIENTEPROVEEDOR>
+        <nombre>DESARROLLO CONSTRUCTIVO DE MEXICO, S. A. DE C. V.</nombre>
+        <CDENCOMERCIAL>DECOMEX</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table54" msdata:rowOrder="53">
+        <CIDCLIENTEPROVEEDOR>219</CIDCLIENTEPROVEEDOR>
+        <nombre>DESPACHO MUNIR HAYEK, S.C.</nombre>
+        <CDENCOMERCIAL>ENYERBERT LOPEZ RUIZ</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table55" msdata:rowOrder="54">
+        <CIDCLIENTEPROVEEDOR>177</CIDCLIENTEPROVEEDOR>
+        <nombre>DIAZ IGA EDIFICACIONES URBANAS E INDUSTRIALES SA DE CV</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table56" msdata:rowOrder="55">
+        <CIDCLIENTEPROVEEDOR>197</CIDCLIENTEPROVEEDOR>
+        <nombre>DISTRIBUIDORA ELÉCTRICA DEL ISTMO S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>DEISA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table57" msdata:rowOrder="56">
+        <CIDCLIENTEPROVEEDOR>222</CIDCLIENTEPROVEEDOR>
+        <nombre>E SUNG TECHNOLOGY SA DE CV</nombre>
+        <CDENCOMERCIAL>ENYERBERT LOPEZ RUIZ</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table58" msdata:rowOrder="57">
+        <CIDCLIENTEPROVEEDOR>215</CIDCLIENTEPROVEEDOR>
+        <nombre>EDGAR IVAN MARTINEZ PRETELIN</nombre>
+        <CDENCOMERCIAL>C.P. IVAN</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table59" msdata:rowOrder="58">
+        <CIDCLIENTEPROVEEDOR>138</CIDCLIENTEPROVEEDOR>
+        <nombre>EDUARDO CRUZ MARTINEZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table60" msdata:rowOrder="59">
+        <CIDCLIENTEPROVEEDOR>237</CIDCLIENTEPROVEEDOR>
+        <nombre>EMMA GAONA MORALES</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table61" msdata:rowOrder="60">
+        <CIDCLIENTEPROVEEDOR>32</CIDCLIENTEPROVEEDOR>
+        <nombre>ENERGIA INTEGRADA DEL SURESTE, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>EISSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table62" msdata:rowOrder="61">
+        <CIDCLIENTEPROVEEDOR>110</CIDCLIENTEPROVEEDOR>
+        <nombre>ENTERPRISE SHIPPING, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>ENTERPRISE SHIPPING</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table63" msdata:rowOrder="62">
+        <CIDCLIENTEPROVEEDOR>34</CIDCLIENTEPROVEEDOR>
+        <nombre>ENYERBERT LOPEZ RUIZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table64" msdata:rowOrder="63">
+        <CIDCLIENTEPROVEEDOR>226</CIDCLIENTEPROVEEDOR>
+        <nombre>EQUIPO DE MEDICION Y CONTROL INDUSTRIAL, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>ANA LILIA SOSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table65" msdata:rowOrder="64">
+        <CIDCLIENTEPROVEEDOR>195</CIDCLIENTEPROVEEDOR>
+        <nombre>EQUIPOS SUMERGIBLES DE VERACRUZ, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>ESVERSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table66" msdata:rowOrder="65">
+        <CIDCLIENTEPROVEEDOR>166</CIDCLIENTEPROVEEDOR>
+        <nombre>EQUIPOS Y SERVICIOS DEL SUR ROHER</nombre>
+        <CDENCOMERCIAL>GORSA ROHER</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table67" msdata:rowOrder="66">
+        <CIDCLIENTEPROVEEDOR>35</CIDCLIENTEPROVEEDOR>
+        <nombre>ESPECIALIZADOS EN SERVICIOS ADUANEROS Y LOGISTICOS</nombre>
+        <CDENCOMERCIAL>ESAL</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table68" msdata:rowOrder="67">
+        <CIDCLIENTEPROVEEDOR>187</CIDCLIENTEPROVEEDOR>
+        <nombre>ESTEBAN MARTINEZ CRUZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table69" msdata:rowOrder="68">
+        <CIDCLIENTEPROVEEDOR>213</CIDCLIENTEPROVEEDOR>
+        <nombre>EVA PORRAS</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table70" msdata:rowOrder="69">
+        <CIDCLIENTEPROVEEDOR>37</CIDCLIENTEPROVEEDOR>
+        <nombre>FABRICANTE Y COMERCIALIZADORA BETA, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>FCBETA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table71" msdata:rowOrder="70">
+        <CIDCLIENTEPROVEEDOR>127</CIDCLIENTEPROVEEDOR>
+        <nombre>FEDERICO RAMIREZ MARTINEZ</nombre>
+        <CDENCOMERCIAL>CONSULTORIA FISCAL CONTABLE Y ADMINISTRATIVA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table72" msdata:rowOrder="71">
+        <CIDCLIENTEPROVEEDOR>39</CIDCLIENTEPROVEEDOR>
+        <nombre>FERROELECTRICA DE AGUA DULCE S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table73" msdata:rowOrder="72">
+        <CIDCLIENTEPROVEEDOR>41</CIDCLIENTEPROVEEDOR>
+        <nombre>GABRIELA AMAYA TOLOSA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table74" msdata:rowOrder="73">
+        <CIDCLIENTEPROVEEDOR>42</CIDCLIENTEPROVEEDOR>
+        <nombre>GERMAN ENRIQUE TRASVIÑA HERRERA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table75" msdata:rowOrder="74">
+        <CIDCLIENTEPROVEEDOR>114</CIDCLIENTEPROVEEDOR>
+        <nombre>GRISELDA ESTRADA ROMAY</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table76" msdata:rowOrder="75">
+        <CIDCLIENTEPROVEEDOR>231</CIDCLIENTEPROVEEDOR>
+        <nombre>GRUPO CONSTRUCTOR ERITO, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>GCOERSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table77" msdata:rowOrder="76">
+        <CIDCLIENTEPROVEEDOR>162</CIDCLIENTEPROVEEDOR>
+        <nombre>GRUPO DAGEGGU S.A .DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table78" msdata:rowOrder="77">
+        <CIDCLIENTEPROVEEDOR>144</CIDCLIENTEPROVEEDOR>
+        <nombre>GRUPO DE INGENIEROS ASOCIADOS SIICOMS S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>SIICOMS</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table79" msdata:rowOrder="78">
+        <CIDCLIENTEPROVEEDOR>47</CIDCLIENTEPROVEEDOR>
+        <nombre>GRUPO INDUSTRIAL Y CONSTRUCCIONES DEL SURESTE, S.A DE C.V.</nombre>
+        <CDENCOMERCIAL>GICSSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table80" msdata:rowOrder="79">
+        <CIDCLIENTEPROVEEDOR>49</CIDCLIENTEPROVEEDOR>
+        <nombre>GUSTAVO DELGADO TERRONES</nombre>
+        <CDENCOMERCIAL>CLICK NARANJA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table81" msdata:rowOrder="80">
+        <CIDCLIENTEPROVEEDOR>141</CIDCLIENTEPROVEEDOR>
+        <nombre>HASTECH, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table82" msdata:rowOrder="81">
+        <CIDCLIENTEPROVEEDOR>132</CIDCLIENTEPROVEEDOR>
+        <nombre>HELENA DEL CARMEN ZAPATA LARA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table83" msdata:rowOrder="82">
+        <CIDCLIENTEPROVEEDOR>171</CIDCLIENTEPROVEEDOR>
+        <nombre>HERBEILL VAZQUEZ PADILLA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table84" msdata:rowOrder="83">
+        <CIDCLIENTEPROVEEDOR>190</CIDCLIENTEPROVEEDOR>
+        <nombre>HILCI YESENIA PRIMO TRUJILLO</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table85" msdata:rowOrder="84">
+        <CIDCLIENTEPROVEEDOR>125</CIDCLIENTEPROVEEDOR>
+        <nombre>HIRAM VELAZQUEZ AGUIRRE</nombre>
+        <CDENCOMERCIAL>LA ISLA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table86" msdata:rowOrder="85">
+        <CIDCLIENTEPROVEEDOR>50</CIDCLIENTEPROVEEDOR>
+        <nombre>HOTELERA DUPORT, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>HOLIDAY INN</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table87" msdata:rowOrder="86">
+        <CIDCLIENTEPROVEEDOR>220</CIDCLIENTEPROVEEDOR>
+        <nombre>HUGO ALBERTO RIVEROLL RIVERA</nombre>
+        <CDENCOMERCIAL>ENYERBERT LOPEZ RUIZ</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table88" msdata:rowOrder="87">
+        <CIDCLIENTEPROVEEDOR>202</CIDCLIENTEPROVEEDOR>
+        <nombre>HZC CONSULTORES ASOCIADOS</nombre>
+        <CDENCOMERCIAL>HZC COLSULTORES</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table89" msdata:rowOrder="88">
+        <CIDCLIENTEPROVEEDOR>116</CIDCLIENTEPROVEEDOR>
+        <nombre>INGENIERIA APLICADA DE AGUA DULCE SA DE CV</nombre>
+        <CDENCOMERCIAL>IAADSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table90" msdata:rowOrder="89">
+        <CIDCLIENTEPROVEEDOR>113</CIDCLIENTEPROVEEDOR>
+        <nombre>INGENIERIA DE PROYECTOS Y DESARROLLOS GDJ SAS DE CV</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table91" msdata:rowOrder="90">
+        <CIDCLIENTEPROVEEDOR>198</CIDCLIENTEPROVEEDOR>
+        <nombre>INNOVACION, DESARROLLO E INTEGRACION ESPECIALIZADA DE SERVIC</nombre>
+        <CDENCOMERCIAL>IDIES</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table92" msdata:rowOrder="91">
+        <CIDCLIENTEPROVEEDOR>52</CIDCLIENTEPROVEEDOR>
+        <nombre>INSTITUTO PEDAGOGICO MODERNO JOHN J. SPARK S.C.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table93" msdata:rowOrder="92">
+        <CIDCLIENTEPROVEEDOR>53</CIDCLIENTEPROVEEDOR>
+        <nombre>INSTITUTO TECNOLOGICO SUPERIOR DE COATZACOALCOS</nombre>
+        <CDENCOMERCIAL>ITESCO</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table94" msdata:rowOrder="93">
+        <CIDCLIENTEPROVEEDOR>54</CIDCLIENTEPROVEEDOR>
+        <nombre>INSTITUTO TECNOLOGICO SUPERIOR DE LAS CHOAPAS</nombre>
+        <CDENCOMERCIAL>ITSCHOAPAS</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table95" msdata:rowOrder="94">
+        <CIDCLIENTEPROVEEDOR>224</CIDCLIENTEPROVEEDOR>
+        <nombre>INSUMOS INDUSTRIALES Y EMPAQUETADURAS</nombre>
+        <CDENCOMERCIAL>ENYERBERT LOPEZ RUIZ</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table96" msdata:rowOrder="95">
+        <CIDCLIENTEPROVEEDOR>124</CIDCLIENTEPROVEEDOR>
+        <nombre>IRMA ALEJANDRA CARDENAS NOVOA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table97" msdata:rowOrder="96">
+        <CIDCLIENTEPROVEEDOR>153</CIDCLIENTEPROVEEDOR>
+        <nombre>JENY DEL ROSARIO AUSENCIO MARTINEZ</nombre>
+        <CDENCOMERCIAL>FAOSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table98" msdata:rowOrder="97">
+        <CIDCLIENTEPROVEEDOR>56</CIDCLIENTEPROVEEDOR>
+        <nombre>JESUS BOKER MENDOZA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table99" msdata:rowOrder="98">
+        <CIDCLIENTEPROVEEDOR>179</CIDCLIENTEPROVEEDOR>
+        <nombre>JORGE HERRERA CANTILLO</nombre>
+        <CDENCOMERCIAL>DRS. HERRERA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table100" msdata:rowOrder="99">
+        <CIDCLIENTEPROVEEDOR>57</CIDCLIENTEPROVEEDOR>
+        <nombre>JORGE SALOME SALOME</nombre>
+        <CDENCOMERCIAL>JORSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table101" msdata:rowOrder="100">
+        <CIDCLIENTEPROVEEDOR>173</CIDCLIENTEPROVEEDOR>
+        <nombre>JOYA PROVEEDORA Y ARRENDADORA INDUSTRIAL S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table102" msdata:rowOrder="101">
+        <CIDCLIENTEPROVEEDOR>61</CIDCLIENTEPROVEEDOR>
+        <nombre>JUAN JOSE YEPEZ GIL</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table103" msdata:rowOrder="102">
+        <CIDCLIENTEPROVEEDOR>194</CIDCLIENTEPROVEEDOR>
+        <nombre>JUAN MAYA VILLEGAS</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table104" msdata:rowOrder="103">
+        <CIDCLIENTEPROVEEDOR>62</CIDCLIENTEPROVEEDOR>
+        <nombre>JUAN RUIZ VALLEJO</nombre>
+        <CDENCOMERCIAL>LA FLOR DEL ISTMO</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table105" msdata:rowOrder="104">
+        <CIDCLIENTEPROVEEDOR>186</CIDCLIENTEPROVEEDOR>
+        <nombre>JUANA IMELDA GUADALUPE CRUZ ZUÑIGA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table106" msdata:rowOrder="105">
+        <CIDCLIENTEPROVEEDOR>108</CIDCLIENTEPROVEEDOR>
+        <nombre>JULIA HERNANDEZ PEREZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table107" msdata:rowOrder="106">
+        <CIDCLIENTEPROVEEDOR>156</CIDCLIENTEPROVEEDOR>
+        <nombre>KATHIA ANDREA MONROY SANTILLAN</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table108" msdata:rowOrder="107">
+        <CIDCLIENTEPROVEEDOR>235</CIDCLIENTEPROVEEDOR>
+        <nombre>LABORATORIOS ROSALDO SA DE CV</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table109" msdata:rowOrder="108">
+        <CIDCLIENTEPROVEEDOR>63</CIDCLIENTEPROVEEDOR>
+        <nombre>LEVI ZUÑIGA OLEA</nombre>
+        <CDENCOMERCIAL>DESPACHO LEVI</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table110" msdata:rowOrder="109">
+        <CIDCLIENTEPROVEEDOR>223</CIDCLIENTEPROVEEDOR>
+        <nombre>LUBRICANTES Y SERVICIOS CLAUDIA</nombre>
+        <CDENCOMERCIAL>CLAUDIA  ALARCON</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table111" msdata:rowOrder="110">
+        <CIDCLIENTEPROVEEDOR>65</CIDCLIENTEPROVEEDOR>
+        <nombre>LUCIA SANTOS SANCHEZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table112" msdata:rowOrder="111">
+        <CIDCLIENTEPROVEEDOR>66</CIDCLIENTEPROVEEDOR>
+        <nombre>LUCIO RUBEN CARTAGENA LARA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table113" msdata:rowOrder="112">
+        <CIDCLIENTEPROVEEDOR>119</CIDCLIENTEPROVEEDOR>
+        <nombre>LUIS ALFREDO COTO TEGOMA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table114" msdata:rowOrder="113">
+        <CIDCLIENTEPROVEEDOR>212</CIDCLIENTEPROVEEDOR>
+        <nombre>LUIS FERNANDO FERNANDEZ REYES</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table115" msdata:rowOrder="114">
+        <CIDCLIENTEPROVEEDOR>160</CIDCLIENTEPROVEEDOR>
+        <nombre>M&amp;R CONSULTORES</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table116" msdata:rowOrder="115">
+        <CIDCLIENTEPROVEEDOR>107</CIDCLIENTEPROVEEDOR>
+        <nombre>MABY ROQUE TOLEDO</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table117" msdata:rowOrder="116">
+        <CIDCLIENTEPROVEEDOR>154</CIDCLIENTEPROVEEDOR>
+        <nombre>MANTENIMIENTO INDUSTRIAL Y LOGISTICA ARQUITECTONICA S DE RL</nombre>
+        <CDENCOMERCIAL>MILA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table118" msdata:rowOrder="117">
+        <CIDCLIENTEPROVEEDOR>201</CIDCLIENTEPROVEEDOR>
+        <nombre>MANUEL ANTONIO ESPINOSA AGUAYO</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table119" msdata:rowOrder="118">
+        <CIDCLIENTEPROVEEDOR>152</CIDCLIENTEPROVEEDOR>
+        <nombre>MARCO ANTONIO MENDEZ GUILLEN</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table188" msdata:rowOrder="186">
+        <CIDCLIENTEPROVEEDOR>152</CIDCLIENTEPROVEEDOR>
+        <nombre>MARIA CRISTINA DE LA CRUZ TORRES</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table120" msdata:rowOrder="119">
+        <CIDCLIENTEPROVEEDOR>169</CIDCLIENTEPROVEEDOR>
+        <nombre>MARIA DE JESUS RIVAS ORDAZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table121" msdata:rowOrder="120">
+        <CIDCLIENTEPROVEEDOR>159</CIDCLIENTEPROVEEDOR>
+        <nombre>MARIA DEL CARMEN ZAMUDIO RADILLA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table122" msdata:rowOrder="121">
+        <CIDCLIENTEPROVEEDOR>139</CIDCLIENTEPROVEEDOR>
+        <nombre>MARIA GUADALUPE JARAMILLO RIOS</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table123" msdata:rowOrder="122">
+        <CIDCLIENTEPROVEEDOR>146</CIDCLIENTEPROVEEDOR>
+        <nombre>MARIA GUADALUPE LOPEZ HERNANDEZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table124" msdata:rowOrder="123">
+        <CIDCLIENTEPROVEEDOR>67</CIDCLIENTEPROVEEDOR>
+        <nombre>MARSA DISTRIBUCIONES Y SERVICIOS S.A DE C.V</nombre>
+        <CDENCOMERCIAL>MARSA DISTRIBUCIONES</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table125" msdata:rowOrder="124">
+        <CIDCLIENTEPROVEEDOR>174</CIDCLIENTEPROVEEDOR>
+        <nombre>MARTHA DE LA CRUZ SANCHEZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table126" msdata:rowOrder="125">
+        <CIDCLIENTEPROVEEDOR>120</CIDCLIENTEPROVEEDOR>
+        <nombre>MARTHA MARIA GARCIA SORIA MEDINA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table127" msdata:rowOrder="126">
+        <CIDCLIENTEPROVEEDOR>225</CIDCLIENTEPROVEEDOR>
+        <nombre>MARY ITZEL MARTINEZ ANTONIO</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table128" msdata:rowOrder="127">
+        <CIDCLIENTEPROVEEDOR>112</CIDCLIENTEPROVEEDOR>
+        <nombre>MATILDE PEREZ MAGAÑA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table129" msdata:rowOrder="128">
+        <CIDCLIENTEPROVEEDOR>163</CIDCLIENTEPROVEEDOR>
+        <nombre>MUNICIPIO DE AGUA DULCE, VER</nombre>
+        <CDENCOMERCIAL>MUNICIPIO DE AGUA DULCE</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table130" msdata:rowOrder="129">
+        <CIDCLIENTEPROVEEDOR>128</CIDCLIENTEPROVEEDOR>
+        <nombre>MUNICIPIO DE MINATITLAN VER</nombre>
+        <CDENCOMERCIAL>MUNICIPIO DE MINATITLAN</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table131" msdata:rowOrder="130">
+        <CIDCLIENTEPROVEEDOR>106</CIDCLIENTEPROVEEDOR>
+        <nombre>MUNICIPIO DE NANCHITAL DE LAZARO CARDENAS DEL RIO , VERACRUZ</nombre>
+        <CDENCOMERCIAL>MUNICIPIO DE NANCHITAL</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table132" msdata:rowOrder="131">
+        <CIDCLIENTEPROVEEDOR>172</CIDCLIENTEPROVEEDOR>
+        <nombre>NARNO MARTINEZ ARIAS</nombre>
+        <CDENCOMERCIAL>COCISA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table133" msdata:rowOrder="132">
+        <CIDCLIENTEPROVEEDOR>147</CIDCLIENTEPROVEEDOR>
+        <nombre>NATIONAL SOFT DE MEXICO S DE RL DE CV</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table134" msdata:rowOrder="133">
+        <CIDCLIENTEPROVEEDOR>69</CIDCLIENTEPROVEEDOR>
+        <nombre>NEREIDA RODRIGUEZ HERNANDEZ</nombre>
+        <CDENCOMERCIAL>GORSA NRH</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table135" msdata:rowOrder="134">
+        <CIDCLIENTEPROVEEDOR>182</CIDCLIENTEPROVEEDOR>
+        <nombre>OLGA LIDIA PARRA</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table136" msdata:rowOrder="135">
+        <CIDCLIENTEPROVEEDOR>72</CIDCLIENTEPROVEEDOR>
+        <nombre>OPERADORA PUERTO MEXICO</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table137" msdata:rowOrder="136">
+        <CIDCLIENTEPROVEEDOR>135</CIDCLIENTEPROVEEDOR>
+        <nombre>PABLO AARON MAYORA ROQUE</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table138" msdata:rowOrder="137">
+        <CIDCLIENTEPROVEEDOR>123</CIDCLIENTEPROVEEDOR>
+        <nombre>PABLO MAYORA YEPEZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table139" msdata:rowOrder="138">
+        <CIDCLIENTEPROVEEDOR>137</CIDCLIENTEPROVEEDOR>
+        <nombre>PAPELERIA Y REGALOS ROSBET, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table140" msdata:rowOrder="139">
+        <CIDCLIENTEPROVEEDOR>236</CIDCLIENTEPROVEEDOR>
+        <nombre>PERLA MARIA MARQUEZ MARTINEZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table141" msdata:rowOrder="140">
+        <CIDCLIENTEPROVEEDOR>151</CIDCLIENTEPROVEEDOR>
+        <nombre>PETROPIPE DE MEXICO, SA DE CV</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table142" msdata:rowOrder="141">
+        <CIDCLIENTEPROVEEDOR>73</CIDCLIENTEPROVEEDOR>
+        <nombre>PINTURAS CAPITAL S.A DE C.V</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table143" msdata:rowOrder="142">
+        <CIDCLIENTEPROVEEDOR>74</CIDCLIENTEPROVEEDOR>
+        <nombre>PLASTICOS DEL GOLFO SUR, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table144" msdata:rowOrder="143">
+        <CIDCLIENTEPROVEEDOR>76</CIDCLIENTEPROVEEDOR>
+        <nombre>PRO-AGROINDUSTRIA S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table145" msdata:rowOrder="144">
+        <CIDCLIENTEPROVEEDOR>77</CIDCLIENTEPROVEEDOR>
+        <nombre>PROCOPIO DOMINGUEZ BARTOLO</nombre>
+        <CDENCOMERCIAL>DESPACHO PDB</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table146" msdata:rowOrder="145">
+        <CIDCLIENTEPROVEEDOR>218</CIDCLIENTEPROVEEDOR>
+        <nombre>PRODUCTOS AMYGO SA DE CV</nombre>
+        <CDENCOMERCIAL>ENYERBERT LOPEZ RUIZ</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table147" msdata:rowOrder="146">
+        <CIDCLIENTEPROVEEDOR>78</CIDCLIENTEPROVEEDOR>
+        <nombre>PROVEDESER, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>PROVEDESER</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table148" msdata:rowOrder="147">
+        <CIDCLIENTEPROVEEDOR>79</CIDCLIENTEPROVEEDOR>
+        <nombre>PROVEEDURIA OBRAS Y MANTENIMIENTO, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>POMSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table149" msdata:rowOrder="148">
+        <CIDCLIENTEPROVEEDOR>98</CIDCLIENTEPROVEEDOR>
+        <nombre>PUBLICO EN GENERAL</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table150" msdata:rowOrder="149">
+        <CIDCLIENTEPROVEEDOR>81</CIDCLIENTEPROVEEDOR>
+        <nombre>RAMON CUPIDO DOMINGUEZ</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table151" msdata:rowOrder="150">
+        <CIDCLIENTEPROVEEDOR>180</CIDCLIENTEPROVEEDOR>
+        <nombre>RAUL HERRERA CANTILLO</nombre>
+        <CDENCOMERCIAL>DRS. HERRERA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table152" msdata:rowOrder="151">
+        <CIDCLIENTEPROVEEDOR>82</CIDCLIENTEPROVEEDOR>
+        <nombre>RENTAMAS Y EQUIPOS ORTIZ, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table153" msdata:rowOrder="152">
+        <CIDCLIENTEPROVEEDOR>238</CIDCLIENTEPROVEEDOR>
+        <nombre>RESTAURANTE TAKASAKY</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table154" msdata:rowOrder="153">
+        <CIDCLIENTEPROVEEDOR>221</CIDCLIENTEPROVEEDOR>
+        <nombre>RIVEROLL RIVERA Y ASOCIADOS S.C.</nombre>
+        <CDENCOMERCIAL>ENYERBERT LOPEZ RUIZ</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table155" msdata:rowOrder="154">
+        <CIDCLIENTEPROVEEDOR>117</CIDCLIENTEPROVEEDOR>
+        <nombre>SANGIL LOGISTICA, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table156" msdata:rowOrder="155">
+        <CIDCLIENTEPROVEEDOR>133</CIDCLIENTEPROVEEDOR>
+        <nombre>SARAHI ALEJANDRO MAYO</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table157" msdata:rowOrder="156">
+        <CIDCLIENTEPROVEEDOR>87</CIDCLIENTEPROVEEDOR>
+        <nombre>SARAI ESCOBAR OSORIO</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table158" msdata:rowOrder="157">
+        <CIDCLIENTEPROVEEDOR>164</CIDCLIENTEPROVEEDOR>
+        <nombre>SEDEINSA S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table159" msdata:rowOrder="158">
+        <CIDCLIENTEPROVEEDOR>89</CIDCLIENTEPROVEEDOR>
+        <nombre>SEMEDIS, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>SEMEDIS</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table160" msdata:rowOrder="159">
+        <CIDCLIENTEPROVEEDOR>90</CIDCLIENTEPROVEEDOR>
+        <nombre>SERGIO CHAPARRO SANDOVAL</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table161" msdata:rowOrder="160">
+        <CIDCLIENTEPROVEEDOR>165</CIDCLIENTEPROVEEDOR>
+        <nombre>SERVICIO A&amp;J, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table162" msdata:rowOrder="161">
+        <CIDCLIENTEPROVEEDOR>109</CIDCLIENTEPROVEEDOR>
+        <nombre>SERVICIOS INTEGRALES DRACO SA DE CV</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table163" msdata:rowOrder="162">
+        <CIDCLIENTEPROVEEDOR>92</CIDCLIENTEPROVEEDOR>
+        <nombre>SERVICIOS MARITIMOS LULU, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>SERMALU</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table164" msdata:rowOrder="163">
+        <CIDCLIENTEPROVEEDOR>95</CIDCLIENTEPROVEEDOR>
+        <nombre>SG SAN MARCOS, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table165" msdata:rowOrder="164">
+        <CIDCLIENTEPROVEEDOR>96</CIDCLIENTEPROVEEDOR>
+        <nombre>SIEMPRESARIAL, S.C.</nombre>
+        <CDENCOMERCIAL>SIEMPRESARIAL</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table166" msdata:rowOrder="165">
+        <CIDCLIENTEPROVEEDOR>140</CIDCLIENTEPROVEEDOR>
+        <nombre>SISTEMAS Y SERVICIOS DE COMUNICACION SA DE CV</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table167" msdata:rowOrder="166">
+        <CIDCLIENTEPROVEEDOR>97</CIDCLIENTEPROVEEDOR>
+        <nombre>SOCIEDAD COOPERATIVA DE CONSUMO PEMEX, SCL</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table168" msdata:rowOrder="167">
+        <CIDCLIENTEPROVEEDOR>184</CIDCLIENTEPROVEEDOR>
+        <nombre>SOCIEDAD VERACRUZANA DE RADIOLOGIA E IMAGEN, A.C.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table169" msdata:rowOrder="168">
+        <CIDCLIENTEPROVEEDOR>99</CIDCLIENTEPROVEEDOR>
+        <nombre>SOLDADURAS Y EQUIPOS INDUSTRIALES COATZA, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>SEICSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table170" msdata:rowOrder="169">
+        <CIDCLIENTEPROVEEDOR>176</CIDCLIENTEPROVEEDOR>
+        <nombre>SOLUTEC INDUSTRIAL Y COMERCIAL S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table171" msdata:rowOrder="170">
+        <CIDCLIENTEPROVEEDOR>158</CIDCLIENTEPROVEEDOR>
+        <nombre>SUMINISTRO E INSTALACIONES INDUSTRIALES DEL SURESTE</nombre>
+        <CDENCOMERCIAL>SIISSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table172" msdata:rowOrder="171">
+        <CIDCLIENTEPROVEEDOR>101</CIDCLIENTEPROVEEDOR>
+        <nombre>SUMINISTROS Y DESARROLLOS DE PROYECTOS INDUSTRIALES, SA DE C</nombre>
+        <CDENCOMERCIAL>SDPISA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table173" msdata:rowOrder="172">
+        <CIDCLIENTEPROVEEDOR>230</CIDCLIENTEPROVEEDOR>
+        <nombre>SUPER SERVICIOS DE ABARROTES CARMONA JARA SA DE CV</nombre>
+        <CDENCOMERCIAL>ENYERBERT LOPEZ RUIZ</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table174" msdata:rowOrder="173">
+        <CIDCLIENTEPROVEEDOR>129</CIDCLIENTEPROVEEDOR>
+        <nombre>SUPPLY TECHNOLOGY ADVANCED S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table175" msdata:rowOrder="174">
+        <CIDCLIENTEPROVEEDOR>181</CIDCLIENTEPROVEEDOR>
+        <nombre>TAC DE COATZACOALCOS, S.C.</nombre>
+        <CDENCOMERCIAL>DRS. HERRERA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table176" msdata:rowOrder="175">
+        <CIDCLIENTEPROVEEDOR>211</CIDCLIENTEPROVEEDOR>
+        <nombre>TALLER DE PAN Y POSTRES S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>PASTELERIA CHOCOLATE</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table177" msdata:rowOrder="176">
+        <CIDCLIENTEPROVEEDOR>175</CIDCLIENTEPROVEEDOR>
+        <nombre>TANIA PONCE SALINAS</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table178" msdata:rowOrder="177">
+        <CIDCLIENTEPROVEEDOR>102</CIDCLIENTEPROVEEDOR>
+        <nombre>TECE RECUBRIMIENTOS, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table179" msdata:rowOrder="178">
+        <CIDCLIENTEPROVEEDOR>126</CIDCLIENTEPROVEEDOR>
+        <nombre>TITO TAPIA QUINTERO</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table180" msdata:rowOrder="179">
+        <CIDCLIENTEPROVEEDOR>210</CIDCLIENTEPROVEEDOR>
+        <nombre>TRANSPORTADORA INTEGRAL DE CARGA SA DE CV</nombre>
+        <CDENCOMERCIAL>CAESSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table181" msdata:rowOrder="180">
+        <CIDCLIENTEPROVEEDOR>188</CIDCLIENTEPROVEEDOR>
+        <nombre>TUBERIA Y SOLDADURA ESCOBAR SALOME S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>JAESSA</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table182" msdata:rowOrder="181">
+        <CIDCLIENTEPROVEEDOR>161</CIDCLIENTEPROVEEDOR>
+        <nombre>TURBOINYECCION DIESEL DEL PUERTO, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL />
+      </Table>
+      <Table diffgr:id="Table183" msdata:rowOrder="182">
+        <CIDCLIENTEPROVEEDOR>103</CIDCLIENTEPROVEEDOR>
+        <nombre>VETERINARIA EL CAPORAL, S.A. DE C.V.</nombre>
+        <CDENCOMERCIAL>VETERINARIA EL CAPORAL</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table184" msdata:rowOrder="183">
+        <CIDCLIENTEPROVEEDOR>105</CIDCLIENTEPROVEEDOR>
+        <nombre>VICTOR HUGO MONROY CAÑEDO</nombre>
+        <CDENCOMERCIAL>VICTOR HUGO MONROY</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table185" msdata:rowOrder="184">
+        <CIDCLIENTEPROVEEDOR>204</CIDCLIENTEPROVEEDOR>
+        <nombre>VICTOR MANUEL PARÉS DE LA CRUZ</nombre>
+        <CDENCOMERCIAL>CEMSUR</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table186" msdata:rowOrder="185">
+        <CIDCLIENTEPROVEEDOR>205</CIDCLIENTEPROVEEDOR>
+        <nombre>VICTOR PARÉS ALVARADO</nombre>
+        <CDENCOMERCIAL>CEMSUR</CDENCOMERCIAL>
+      </Table>
+      <Table diffgr:id="Table187" msdata:rowOrder="186">
+        <CIDCLIENTEPROVEEDOR>200</CIDCLIENTEPROVEEDOR>
+        <nombre>VICTORIA GARCIA CRUZ</nombre>
+        <CDENCOMERCIAL>PROELEC</CDENCOMERCIAL>
+      </Table>
+    </NewDataSet>
+  </diffgr:diffgram>
+</DataSet>
